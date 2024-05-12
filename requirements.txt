@@ -1,0 +1,6 @@
+python 3.11.9
+faster whisper
+google generative ai
+open ai
+pyaudio
+SpeechRecognition
